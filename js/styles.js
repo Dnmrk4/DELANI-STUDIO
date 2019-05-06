@@ -53,6 +53,6 @@ $(document).ready(function() {
             });
             $("#submit").click(function() {
                         alert("Your message has been received!");
-                        alert("THANK YOU! :)");
+                        alert("THANK YOU!");
                     });
                 });
