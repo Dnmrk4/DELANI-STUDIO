@@ -97,4 +97,11 @@ sup {
 #work  {
     size: 40px;
 }
+.footer {
+    font-family: 'Permanent Marker', cursive;
+}
+@media (min-width: 200px) {
+    div {
+        font-size: 17px;
+    }
 
