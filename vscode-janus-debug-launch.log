@@ -1,4 +1,0 @@
-INFO |00000.240|JanusDebugSession: launchRequest
-DEBUG|00000.241|JanusDebugSession: my workspace: /home/dnmrk/Documents/delani
-ERROR|00000.241|JanusDebugSession: launchRequest failed: no script specified by user
-INFO |00000.248|JanusDebugSession: disconnectRequest
