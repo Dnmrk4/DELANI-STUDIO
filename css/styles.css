@@ -97,19 +97,14 @@ sup {
 #work  {
     size: 40px;
 }
-.footer {
-    font-family: 'Permanent Marker', cursive;
-}
 @media (min-width: 200px) {
     div {
         font-size: 17px;
 }
-.development {
-    font-family: 'Rajdhani', sans-serif;
+.footer {
+    font-family: 'Permanent Marker', cursive;
 }
-.design {
+#des {
     font-family: 'Rajdhani', sans-serif;
-}
-.management {
-    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
 }
