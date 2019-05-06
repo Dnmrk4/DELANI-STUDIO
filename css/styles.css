@@ -47,7 +47,7 @@ td {
     background: url(../img/c_image.jpg);
 }
 button {
-    background-color: aquamarine;
+    background-color: rgba(106, 248, 213, 0.829);
     padding: 16px 55px;
     border-radius: 20px;
     cursor: pointer;
@@ -56,17 +56,17 @@ button {
     font-weight: bold;
 }
 input {
-    background-color: rgba(255, 255, 255, 0.438);
+    background-color: rgba(255, 255, 255, 0.377);
     border-radius: 8px;
     border: none;
     outline: none;
     padding: 5px 35px; 
 }
 textarea {
-    width: 400px;
+    width: 450px;
     height: 200px;
     border-radius: 20px;
-    background-color: rgba(252, 252, 252, 0.418);
+    background-color: rgba(252, 252, 252, 0.397);
 }
 .logo {
     padding: 30px;
@@ -90,6 +90,11 @@ sup {
     table-layout: fixed;
     font-weight: 50px;
 }
-
-
+::placeholder {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+#work  {
+    size: 40px;
+}
 
