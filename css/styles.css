@@ -22,6 +22,7 @@
 h3 {
     text-align: center;
     font-size: 20px;
+    font-weight: bolder
 }
 #row{
     width: 100%;
@@ -33,7 +34,7 @@ h3 {
     height:150px;
     width:150px;
 }
-.table, th, td {
+#table, th, td {
     border-spacing: 3px;
     border-collapse: separate;
     text-align: center;
@@ -55,15 +56,17 @@ button {
     font-weight: bold;
 }
 input {
+    background-color: rgba(255, 255, 255, 0.438);
     border-radius: 8px;
     border: none;
     outline: none;
-    padding: 5px 35px;  
+    padding: 5px 35px; 
 }
 textarea {
     width: 400px;
     height: 200px;
     border-radius: 20px;
+    background-color: rgba(252, 252, 252, 0.418);
 }
 .logo {
     padding: 30px;
@@ -71,9 +74,22 @@ textarea {
 sup {
     size: 1px;
 }
-
-
-
+.block4showing {
+    display: none;
+}
+.block4bshowing {
+    display: none;
+}
+.block4cshowing {
+    display: none;
+}
+.table {
+    border-spacing: 3px;
+    border-collapse: separate;
+    text-align: center;
+    table-layout: fixed;
+    font-weight: 50px;
+}
 
 
 
