@@ -15,7 +15,7 @@
 }
 .block3 {
     text-align: center;
-    background: url(../img/s_image.jpg);
+    background: url(../img/s_images.jpg);
     font-family: 'Gugi', cursive;
     text-shadow: 5px black;
 }
@@ -69,7 +69,7 @@ textarea {
     background-color: rgba(252, 252, 252, 0.397);
 }
 .logo {
-    padding: 30px;
+    padding: 3px;
 }
 sup {
     size: 1px;
@@ -103,5 +103,13 @@ sup {
 @media (min-width: 200px) {
     div {
         font-size: 17px;
-    }
-
+}
+.development {
+    font-family: 'Rajdhani', sans-serif;
+}
+.design {
+    font-family: 'Rajdhani', sans-serif;
+}
+.management {
+    font-family: 'Rajdhani', sans-serif;
+}
